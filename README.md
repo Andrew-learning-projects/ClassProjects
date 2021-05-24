@@ -3,4 +3,4 @@
 I made this account to upload and keep track of things I've done while learning python.
 
 
-Most, if not all of this code was done with the help of UDEMY courses on python and ethical hacking
+A ton of this was done with help and tips from UDEMY courses in Python and Ethical Hacking
