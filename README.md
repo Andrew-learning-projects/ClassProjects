@@ -13,5 +13,5 @@ Much of this was learned from tips from UDEMY courses in Python and Ethical Hack
 
 4. The ARP Spoofer uses ARP return packets to spoof a router in order to initiate a Man in the Middle attack.    It was a bit of a challenge so right now you have to input your target IPs into the code, rather than the    command line. 
 
-5. The packet sniffer listens for HTTP Requests on Port 80 and will alert when HTTP Requests occor
+5. The packet sniffer listens for HTTP Requests on Port 80 and will alert when HTTP Requests occur
    and when a possible login may have occured
